@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "game test",
+			"path": "."
+		},
+		{
+			"name": "slow-roads-main 2",
+			"path": "../../Downloads/slow-roads-main 2"
+		},
+		{
+			"name": "slow-roads-main",
+			"path": "../../Downloads/slow-roads-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "game test"
+	}
+}
